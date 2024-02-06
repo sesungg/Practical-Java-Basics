@@ -1,13 +1,12 @@
 package oop1;
 
-public class MusicPlayerMain2 {
+public class MusicPlayerMain3 {
     public static void main(String[] args) {
         MusicPlayerData data = new MusicPlayerData();
 
 
         //음악 플레이어 켜기
         on(data);
-
         //볼륨 증가
         volumeUp(data);
         //볼륨 증가
